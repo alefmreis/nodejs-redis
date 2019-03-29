@@ -1,0 +1,19 @@
+{
+  "name": "redis-study",
+  "version": "1.0.0",
+  "description": "redis trainning",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alef Reis",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "2.8.0"
+  },
+  "devDependencies": {
+    "eslint": "4.19.1",
+    "eslint-config-airbnb-base": "13.0.0",
+    "eslint-plugin-import": "2.13.0"
+  }
+}
