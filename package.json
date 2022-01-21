@@ -9,6 +9,7 @@
   "author": "Alef Reis",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^14.2.0",
     "redis": "2.8.0"
   },
   "devDependencies": {
